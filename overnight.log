@@ -1,0 +1,11795 @@
+
+> whale-watcher-bot@1.0.0 dev
+> node --watch index.js
+
+✅ Bot is online as rwtch#6818
+(node:35212) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+RWTCH scanner running
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2625
+Small: 375
+Scanner Posts: 0
+Alerts: 0
+
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2625
+Small: 375
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2625
+Small: 375
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2625
+Small: 375
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2625
+Small: 375
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2625
+Small: 375
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=2795
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2625
+Small: 375
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2625
+Small: 375
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2625
+Small: 375
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2625
+Small: 375
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2625
+Small: 375
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=6546
+scanner post failed: scanner post timed out
+⏳ Scanner already running. Skipping.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=6546
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2158
+Duplicate: 417
+Small: 425
+Scanner Posts: 6
+Alerts: 6
+
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 425
+Duplicate: 2124
+Small: 451
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2549
+Small: 451
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2549
+Small: 451
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2549
+Small: 451
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=7151
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1980
+Duplicate: 607
+Small: 413
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2587
+Small: 413
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2587
+Small: 413
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2587
+Small: 413
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2587
+Small: 413
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=7424
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2181
+Duplicate: 453
+Small: 366
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2634
+Small: 366
+Scanner Posts: 0
+Alerts: 0
+
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2634
+Small: 366
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2634
+Small: 366
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2634
+Small: 366
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2634
+Small: 366
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=8207
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2634
+Small: 366
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2634
+Small: 366
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2634
+Small: 366
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2634
+Small: 366
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2634
+Small: 366
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=8995
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1666
+Duplicate: 951
+Small: 383
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2617
+Small: 383
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2617
+Small: 383
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=9306
+scanner post failed: scanner post timed out
+⏳ Scanner already running. Skipping.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=9306
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2082
+Duplicate: 397
+Small: 521
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=9325
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1659
+Duplicate: 788
+Small: 553
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2447
+Small: 553
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2447
+Small: 553
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2447
+Small: 553
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2447
+Small: 553
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=9663
+whale alert failed: whale alert timed out
+⏳ Scanner already running. Skipping.
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1695
+Duplicate: 750
+Small: 555
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2445
+Small: 555
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2445
+Small: 555
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2445
+Small: 555
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2445
+Small: 555
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=9878
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2445
+Small: 555
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2445
+Small: 555
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2445
+Small: 555
+Scanner Posts: 0
+Alerts: 0
+
+⚠️ WebSocket closed. Reconnecting...
+⚠️ RWTCH WebSocket closed. Reconnecting.
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=10007
+fresh alert failed: fresh alert timed out
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2558
+Duplicate: 54
+Small: 388
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2612
+Small: 388
+Scanner Posts: 0
+Alerts: 0
+
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2612
+Small: 388
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2612
+Small: 388
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2612
+Small: 388
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2612
+Small: 388
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=10250
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2612
+Small: 388
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2612
+Small: 388
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2612
+Small: 388
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2612
+Small: 388
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=10548
+scanner post failed: scanner post timed out
+⏳ Scanner already running. Skipping.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=10548
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2533
+Duplicate: 113
+Small: 354
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=10573
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1747
+Duplicate: 853
+Small: 400
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2600
+Small: 400
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2600
+Small: 400
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2600
+Small: 400
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2600
+Small: 400
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=10986
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2615
+Duplicate: 15
+Small: 370
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2630
+Small: 370
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 435
+Duplicate: 2188
+Small: 377
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 659
+Duplicate: 1985
+Small: 356
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2644
+Small: 356
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2644
+Small: 356
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=11832
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2644
+Small: 356
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2644
+Small: 356
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2644
+Small: 356
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=13496
+scanner post failed: scanner post timed out
+⏳ Scanner already running. Skipping.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=13496
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2405
+Duplicate: 152
+Small: 443
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1802
+Duplicate: 838
+Small: 360
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2640
+Small: 360
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2640
+Small: 360
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2640
+Small: 360
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=13761
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1854
+Duplicate: 834
+Small: 312
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1770
+Duplicate: 793
+Small: 437
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2563
+Small: 437
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2563
+Small: 437
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2563
+Small: 437
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2563
+Small: 437
+Scanner Posts: 0
+Alerts: 0
+
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=15917
+RWTCH scanner running
+scanner post failed: scanner post timed out
+⏳ Scanner already running. Skipping.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=15917
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2027
+Duplicate: 582
+Small: 391
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2303
+Duplicate: 351
+Small: 346
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2654
+Small: 346
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2654
+Small: 346
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2654
+Small: 346
+Scanner Posts: 0
+Alerts: 0
+
+⚠️ WebSocket closed. Reconnecting...
+⚠️ RWTCH WebSocket closed. Reconnecting.
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=17360
+scanner post failed: scanner post timed out
+⏳ Scanner already running. Skipping.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=17360
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2280
+Duplicate: 474
+Small: 246
+Scanner Posts: 6
+Alerts: 6
+
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2482
+Duplicate: 210
+Small: 308
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2692
+Small: 308
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2692
+Small: 308
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+fresh alert failed: fresh alert timed out
+⏳ Scanner already running. Skipping.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=17804
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2034
+Duplicate: 588
+Small: 378
+Scanner Posts: 6
+Alerts: 6
+
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2330
+Duplicate: 376
+Small: 294
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2706
+Small: 294
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2706
+Small: 294
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2706
+Small: 294
+Scanner Posts: 0
+Alerts: 0
+
+⚠️ WebSocket closed. Reconnecting...
+⚠️ RWTCH WebSocket closed. Reconnecting.
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=18179
+scanner post failed: scanner post timed out
+⏳ Scanner already running. Skipping.
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1775
+Duplicate: 852
+Small: 373
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2627
+Small: 373
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2627
+Small: 373
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2627
+Small: 373
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+💓 Heartbeat | liveEvents=20672
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+fresh alert failed: fresh alert timed out
+⏳ Scanner already running. Skipping.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2180
+Duplicate: 380
+Small: 440
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2560
+Small: 440
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2560
+Small: 440
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2560
+Small: 440
+Scanner Posts: 0
+Alerts: 0
+
+⚠️ WebSocket closed. Reconnecting...
+⚠️ RWTCH WebSocket closed. Reconnecting.
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=22440
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2323
+Duplicate: 387
+Small: 290
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=22440
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2091
+Duplicate: 425
+Small: 484
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=22487
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2146
+Duplicate: 500
+Small: 354
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2646
+Small: 354
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2646
+Small: 354
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2646
+Small: 354
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2646
+Small: 354
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=23419
+scanner post failed: scanner post timed out
+⏳ Scanner already running. Skipping.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=23419
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2635
+Duplicate: 86
+Small: 279
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2377
+Duplicate: 238
+Small: 385
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2615
+Small: 385
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2615
+Small: 385
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2615
+Small: 385
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2615
+Small: 385
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=23676
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2615
+Small: 385
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2615
+Small: 385
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2615
+Small: 385
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2615
+Small: 385
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2615
+Small: 385
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2615
+Small: 385
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=24053
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2615
+Small: 385
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2615
+Small: 385
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2615
+Small: 385
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2615
+Small: 385
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2615
+Small: 385
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=24427
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2615
+Small: 385
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 461
+Duplicate: 2157
+Small: 382
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2618
+Small: 382
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2618
+Small: 382
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1555
+Duplicate: 1102
+Small: 343
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2657
+Small: 343
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=24739
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2657
+Small: 343
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2657
+Small: 343
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+scanner post failed: scanner post timed out
+⏳ Scanner already running. Skipping.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 415
+Duplicate: 2244
+Small: 341
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2659
+Small: 341
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2659
+Small: 341
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=25007
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2659
+Small: 341
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=25067
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2518
+Duplicate: 79
+Small: 403
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 431
+Duplicate: 2151
+Small: 418
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2582
+Small: 418
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2582
+Small: 418
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 123
+Duplicate: 2425
+Small: 452
+Scanner Posts: 6
+Alerts: 5
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2548
+Small: 452
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=25445
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2548
+Small: 452
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2548
+Small: 452
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 682
+Duplicate: 1896
+Small: 422
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2578
+Small: 422
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=25891
+scanner post failed: scanner post timed out
+⏳ Scanner already running. Skipping.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=25891
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2532
+Duplicate: 0
+Small: 468
+Scanner Posts: 6
+Alerts: 6
+
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2361
+Duplicate: 180
+Small: 459
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2541
+Small: 459
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2541
+Small: 459
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2541
+Small: 459
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=26485
+scanner post failed: scanner post timed out
+⏳ Scanner already running. Skipping.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=26485
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1987
+Duplicate: 667
+Small: 346
+Scanner Posts: 6
+Alerts: 6
+
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1985
+Duplicate: 656
+Small: 359
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2641
+Small: 359
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2641
+Small: 359
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2641
+Small: 359
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=27149
+pre alert failed: pre alert timed out
+⏳ Scanner already running. Skipping.
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2339
+Duplicate: 323
+Small: 338
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2662
+Small: 338
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 913
+Duplicate: 1799
+Small: 288
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=27446
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 452
+Duplicate: 2263
+Small: 285
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 644
+Duplicate: 2071
+Small: 285
+Scanner Posts: 6
+Alerts: 6
+
+💓 Heartbeat | liveEvents=27849
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2715
+Small: 285
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2715
+Small: 285
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2715
+Small: 285
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2715
+Small: 285
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2715
+Small: 285
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=28304
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2715
+Small: 285
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2715
+Small: 285
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2715
+Small: 285
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2715
+Small: 285
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2715
+Small: 285
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2715
+Small: 285
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=28897
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2715
+Small: 285
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2715
+Small: 285
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2715
+Small: 285
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2715
+Small: 285
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2715
+Small: 285
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2715
+Small: 285
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=29747
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2715
+Small: 285
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2715
+Small: 285
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 897
+Duplicate: 1802
+Small: 301
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2693
+Small: 307
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2693
+Small: 307
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2693
+Small: 307
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=30358
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2693
+Small: 307
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2693
+Small: 307
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2693
+Small: 307
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=30651
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1808
+Duplicate: 817
+Small: 375
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=30651
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1968
+Duplicate: 664
+Small: 368
+Scanner Posts: 6
+Alerts: 6
+
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2632
+Small: 368
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2632
+Small: 368
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 476
+Duplicate: 2183
+Small: 341
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2659
+Small: 341
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=31227
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2192
+Duplicate: 540
+Small: 268
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2732
+Small: 268
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2732
+Small: 268
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2732
+Small: 268
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2732
+Small: 268
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=31632
+scanner post failed: scanner post timed out
+⏳ Scanner already running. Skipping.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=31632
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2415
+Duplicate: 196
+Small: 389
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=31658
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1857
+Duplicate: 809
+Small: 334
+Scanner Posts: 6
+Alerts: 6
+
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2666
+Small: 334
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2666
+Small: 334
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2666
+Small: 334
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2666
+Small: 334
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2666
+Small: 334
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=32760
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2666
+Small: 334
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2666
+Small: 334
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2666
+Small: 334
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2666
+Small: 334
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=33412
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1843
+Duplicate: 830
+Small: 327
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2673
+Small: 327
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2673
+Small: 327
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2673
+Small: 327
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2673
+Small: 327
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=34133
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 441
+Duplicate: 2226
+Small: 333
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2667
+Small: 333
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2667
+Small: 333
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2667
+Small: 333
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2667
+Small: 333
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=34681
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1970
+Duplicate: 680
+Small: 350
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2650
+Small: 350
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2650
+Small: 350
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2650
+Small: 350
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2650
+Small: 350
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=34944
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2264
+Duplicate: 425
+Small: 311
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2689
+Small: 311
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2689
+Small: 311
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2689
+Small: 311
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2689
+Small: 311
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+💓 Heartbeat | liveEvents=36715
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1531
+Duplicate: 1195
+Small: 274
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2726
+Small: 274
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2726
+Small: 274
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2726
+Small: 274
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2726
+Small: 274
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2726
+Small: 274
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=39120
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2726
+Small: 274
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2726
+Small: 274
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2726
+Small: 274
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2726
+Small: 274
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2726
+Small: 274
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2726
+Small: 274
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=40640
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2726
+Small: 274
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=40858
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1865
+Duplicate: 791
+Small: 344
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2656
+Small: 344
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2656
+Small: 344
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2656
+Small: 344
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 443
+Duplicate: 2226
+Small: 331
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2669
+Small: 331
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=41512
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2669
+Small: 331
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2669
+Small: 331
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2669
+Small: 331
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2669
+Small: 331
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2669
+Small: 331
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2669
+Small: 331
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=42287
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2669
+Small: 331
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2669
+Small: 331
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2669
+Small: 331
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 417
+Duplicate: 2229
+Small: 354
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 858
+Duplicate: 1771
+Small: 371
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2629
+Small: 371
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=42915
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2629
+Small: 371
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2629
+Small: 371
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2629
+Small: 371
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2629
+Small: 371
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2629
+Small: 371
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2629
+Small: 371
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=43608
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2629
+Small: 371
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2629
+Small: 371
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2629
+Small: 371
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2629
+Small: 371
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2629
+Small: 371
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2629
+Small: 371
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=44322
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2629
+Small: 371
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2629
+Small: 371
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2629
+Small: 371
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2629
+Small: 371
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 457
+Duplicate: 2186
+Small: 357
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2643
+Small: 357
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=45106
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2643
+Small: 357
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2643
+Small: 357
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2643
+Small: 357
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2643
+Small: 357
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2643
+Small: 357
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2643
+Small: 357
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=46346
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2643
+Small: 357
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2643
+Small: 357
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2643
+Small: 357
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 450
+Duplicate: 2226
+Small: 324
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+⏳ Scanner already running. Skipping.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1030
+Duplicate: 1642
+Small: 328
+Scanner Posts: 6
+Alerts: 6
+
+💓 Heartbeat | liveEvents=47735
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=48914
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=50524
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 468
+Duplicate: 2215
+Small: 317
+Scanner Posts: 6
+Alerts: 6
+
+💓 Heartbeat | liveEvents=52130
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2683
+Small: 317
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2683
+Small: 317
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2683
+Small: 317
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2683
+Small: 317
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2683
+Small: 317
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2683
+Small: 317
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=53786
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2683
+Small: 317
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2683
+Small: 317
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2683
+Small: 317
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 459
+Duplicate: 2233
+Small: 308
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1028
+Duplicate: 1644
+Small: 328
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=55231
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=56876
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=58107
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2672
+Small: 328
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 433
+Duplicate: 2204
+Small: 363
+Scanner Posts: 6
+Alerts: 6
+
+💓 Heartbeat | liveEvents=59902
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=61217
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 456
+Duplicate: 2178
+Small: 366
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1275
+Duplicate: 1337
+Small: 388
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2612
+Small: 388
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=62568
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2612
+Small: 388
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2612
+Small: 388
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2612
+Small: 388
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2612
+Small: 388
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2612
+Small: 388
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2612
+Small: 388
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=63482
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2612
+Small: 388
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2612
+Small: 388
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2612
+Small: 388
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2612
+Small: 388
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2612
+Small: 388
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2612
+Small: 388
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=64973
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2612
+Small: 388
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2612
+Small: 388
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2612
+Small: 388
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2612
+Small: 388
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2612
+Small: 388
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2612
+Small: 388
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=66299
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 442
+Duplicate: 2179
+Small: 379
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2621
+Small: 379
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2621
+Small: 379
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2621
+Small: 379
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2621
+Small: 379
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2621
+Small: 379
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=67481
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2621
+Small: 379
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2621
+Small: 379
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2621
+Small: 379
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 450
+Duplicate: 2165
+Small: 385
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1166
+Duplicate: 1541
+Small: 293
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2707
+Small: 293
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=68514
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2707
+Small: 293
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2707
+Small: 293
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2707
+Small: 293
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2707
+Small: 293
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2707
+Small: 293
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2707
+Small: 293
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=69967
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2707
+Small: 293
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2707
+Small: 293
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2707
+Small: 293
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2707
+Small: 293
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2707
+Small: 293
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2707
+Small: 293
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=70954
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2707
+Small: 293
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2707
+Small: 293
+Scanner Posts: 0
+Alerts: 0
+
+⚠️ WebSocket closed. Reconnecting...
+⚠️ RWTCH WebSocket closed. Reconnecting.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2707
+Small: 293
+Scanner Posts: 0
+Alerts: 0
+
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2707
+Small: 293
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2707
+Small: 293
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2707
+Small: 293
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=71411
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 461
+Duplicate: 2265
+Small: 274
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2726
+Small: 274
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2726
+Small: 274
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2726
+Small: 274
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2726
+Small: 274
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2726
+Small: 274
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=71735
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2726
+Small: 274
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2726
+Small: 274
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2726
+Small: 274
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 443
+Duplicate: 2276
+Small: 281
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1099
+Duplicate: 1586
+Small: 315
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2685
+Small: 315
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=72181
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2685
+Small: 315
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2685
+Small: 315
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2685
+Small: 315
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2685
+Small: 315
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2685
+Small: 315
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2685
+Small: 315
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=72497
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2685
+Small: 315
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2685
+Small: 315
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2685
+Small: 315
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2685
+Small: 315
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2685
+Small: 315
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2685
+Small: 315
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=72848
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2685
+Small: 315
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2685
+Small: 315
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2685
+Small: 315
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2685
+Small: 315
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2685
+Small: 315
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2685
+Small: 315
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=73214
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 457
+Duplicate: 2224
+Small: 319
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2681
+Small: 319
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2681
+Small: 319
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2681
+Small: 319
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2681
+Small: 319
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2681
+Small: 319
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=73570
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2681
+Small: 319
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2681
+Small: 319
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2681
+Small: 319
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 449
+Duplicate: 2238
+Small: 313
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 938
+Duplicate: 1781
+Small: 281
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2719
+Small: 281
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=73920
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2719
+Small: 281
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2719
+Small: 281
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2719
+Small: 281
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2719
+Small: 281
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2719
+Small: 281
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2719
+Small: 281
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=74276
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2719
+Small: 281
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2719
+Small: 281
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2719
+Small: 281
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2719
+Small: 281
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2719
+Small: 281
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2719
+Small: 281
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=74623
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2719
+Small: 281
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2719
+Small: 281
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2719
+Small: 281
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2719
+Small: 281
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2719
+Small: 281
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2719
+Small: 281
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=75003
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 431
+Duplicate: 2262
+Small: 307
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2693
+Small: 307
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2693
+Small: 307
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2693
+Small: 307
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2693
+Small: 307
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2693
+Small: 307
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=75351
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2693
+Small: 307
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2693
+Small: 307
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2693
+Small: 307
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 461
+Duplicate: 2244
+Small: 295
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1501
+Duplicate: 1147
+Small: 352
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2648
+Small: 352
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=75677
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2648
+Small: 352
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2648
+Small: 352
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2648
+Small: 352
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2648
+Small: 352
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2648
+Small: 352
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2648
+Small: 352
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=76072
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2648
+Small: 352
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2648
+Small: 352
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2648
+Small: 352
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2648
+Small: 352
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2648
+Small: 352
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2648
+Small: 352
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=76520
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2648
+Small: 352
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2648
+Small: 352
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2648
+Small: 352
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2648
+Small: 352
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2648
+Small: 352
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2648
+Small: 352
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=76874
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2648
+Small: 352
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 472
+Duplicate: 2217
+Small: 311
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2689
+Small: 311
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2689
+Small: 311
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2689
+Small: 311
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2689
+Small: 311
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=77261
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2689
+Small: 311
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2689
+Small: 311
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2689
+Small: 311
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2689
+Small: 311
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1847
+Duplicate: 622
+Small: 531
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2469
+Small: 531
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=77803
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2469
+Small: 531
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2469
+Small: 531
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2469
+Small: 531
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2469
+Small: 531
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2469
+Small: 531
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2469
+Small: 531
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=78229
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2469
+Small: 531
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2469
+Small: 531
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2469
+Small: 531
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2469
+Small: 531
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2469
+Small: 531
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2469
+Small: 531
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=78719
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2469
+Small: 531
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2469
+Small: 531
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2469
+Small: 531
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2469
+Small: 531
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2469
+Small: 531
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2469
+Small: 531
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=79257
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2469
+Small: 531
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 474
+Duplicate: 1997
+Small: 529
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2471
+Small: 529
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2471
+Small: 529
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2471
+Small: 529
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2471
+Small: 529
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=79647
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2471
+Small: 529
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2471
+Small: 529
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2471
+Small: 529
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2471
+Small: 529
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1632
+Duplicate: 1115
+Small: 253
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2747
+Small: 253
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=80107
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2747
+Small: 253
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2747
+Small: 253
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2747
+Small: 253
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2747
+Small: 253
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2747
+Small: 253
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2747
+Small: 253
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=80691
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2747
+Small: 253
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2747
+Small: 253
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2747
+Small: 253
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2747
+Small: 253
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2747
+Small: 253
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2747
+Small: 253
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=81245
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2747
+Small: 253
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2747
+Small: 253
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2747
+Small: 253
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2747
+Small: 253
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2747
+Small: 253
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2747
+Small: 253
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=81809
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2747
+Small: 253
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 448
+Duplicate: 2273
+Small: 279
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=82465
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1570
+Duplicate: 1134
+Small: 296
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2704
+Small: 296
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=83176
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2704
+Small: 296
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2704
+Small: 296
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2704
+Small: 296
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2704
+Small: 296
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2704
+Small: 296
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2704
+Small: 296
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=83846
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2704
+Small: 296
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2704
+Small: 296
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2704
+Small: 296
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2704
+Small: 296
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2704
+Small: 296
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2704
+Small: 296
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=84480
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2704
+Small: 296
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2704
+Small: 296
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2704
+Small: 296
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2704
+Small: 296
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2704
+Small: 296
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2704
+Small: 296
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=84833
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2704
+Small: 296
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 466
+Duplicate: 2256
+Small: 278
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2722
+Small: 278
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2722
+Small: 278
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2722
+Small: 278
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2722
+Small: 278
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=85262
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2722
+Small: 278
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2722
+Small: 278
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2722
+Small: 278
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2722
+Small: 278
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1903
+Duplicate: 871
+Small: 226
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2774
+Small: 226
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=85680
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2774
+Small: 226
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2774
+Small: 226
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2774
+Small: 226
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2774
+Small: 226
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2774
+Small: 226
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2774
+Small: 226
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=86061
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2774
+Small: 226
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2774
+Small: 226
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2774
+Small: 226
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2774
+Small: 226
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2774
+Small: 226
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2774
+Small: 226
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=86387
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2774
+Small: 226
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2774
+Small: 226
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2774
+Small: 226
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2774
+Small: 226
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2774
+Small: 226
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2774
+Small: 226
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=86805
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2774
+Small: 226
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 446
+Duplicate: 2308
+Small: 246
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2754
+Small: 246
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2754
+Small: 246
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2754
+Small: 246
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2754
+Small: 246
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=87262
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2754
+Small: 246
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2754
+Small: 246
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2754
+Small: 246
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2754
+Small: 246
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 468
+Duplicate: 2308
+Small: 224
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1168
+Duplicate: 1546
+Small: 286
+Scanner Posts: 6
+Alerts: 6
+
+💓 Heartbeat | liveEvents=87717
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2714
+Small: 286
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2714
+Small: 286
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2714
+Small: 286
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2714
+Small: 286
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2714
+Small: 286
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2714
+Small: 286
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=88238
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2714
+Small: 286
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2714
+Small: 286
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2714
+Small: 286
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2714
+Small: 286
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2714
+Small: 286
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2714
+Small: 286
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=88655
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2714
+Small: 286
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2714
+Small: 286
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2714
+Small: 286
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2714
+Small: 286
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2714
+Small: 286
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2714
+Small: 286
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=89053
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2714
+Small: 286
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 442
+Duplicate: 2268
+Small: 290
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2710
+Small: 290
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2710
+Small: 290
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=89407
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2710
+Small: 290
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2710
+Small: 290
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=89533
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1963
+Duplicate: 718
+Small: 319
+Scanner Posts: 6
+Alerts: 6
+
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2681
+Small: 319
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2681
+Small: 319
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2681
+Small: 319
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2681
+Small: 319
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=89945
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2238
+Duplicate: 426
+Small: 336
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2664
+Small: 336
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2664
+Small: 336
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2664
+Small: 336
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2664
+Small: 336
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+💓 Heartbeat | liveEvents=90443
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1377
+Duplicate: 1297
+Small: 326
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2674
+Small: 326
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2674
+Small: 326
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2674
+Small: 326
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2674
+Small: 326
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=91005
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 423
+Duplicate: 2220
+Small: 357
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2643
+Small: 357
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2643
+Small: 357
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2643
+Small: 357
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2643
+Small: 357
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+💓 Heartbeat | liveEvents=91411
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1377
+Duplicate: 1314
+Small: 309
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2691
+Small: 309
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2691
+Small: 309
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2691
+Small: 309
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2691
+Small: 309
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=92077
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2691
+Small: 309
+Scanner Posts: 0
+Alerts: 0
+
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 444
+Duplicate: 2268
+Small: 288
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2712
+Small: 288
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2712
+Small: 288
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2712
+Small: 288
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=92616
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2138
+Duplicate: 560
+Small: 302
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2698
+Small: 302
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2698
+Small: 302
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2698
+Small: 302
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2698
+Small: 302
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=93090
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2698
+Small: 302
+Scanner Posts: 0
+Alerts: 0
+
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 452
+Duplicate: 2253
+Small: 295
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2705
+Small: 295
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2705
+Small: 295
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2705
+Small: 295
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 460
+Duplicate: 2269
+Small: 271
+Scanner Posts: 6
+Alerts: 6
+
+💓 Heartbeat | liveEvents=93848
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 284
+Duplicate: 2421
+Small: 295
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 820
+Duplicate: 1871
+Small: 309
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2691
+Small: 309
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2691
+Small: 309
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2691
+Small: 309
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2691
+Small: 309
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=94409
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2691
+Small: 309
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2691
+Small: 309
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2691
+Small: 309
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2691
+Small: 309
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2691
+Small: 309
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2691
+Small: 309
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=95059
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2691
+Small: 309
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2691
+Small: 309
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2691
+Small: 309
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2691
+Small: 309
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2691
+Small: 309
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2691
+Small: 309
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=95728
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2691
+Small: 309
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2691
+Small: 309
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2691
+Small: 309
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2691
+Small: 309
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2691
+Small: 309
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2691
+Small: 309
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=96296
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2691
+Small: 309
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 434
+Duplicate: 2239
+Small: 327
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2673
+Small: 327
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2673
+Small: 327
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2673
+Small: 327
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 445
+Duplicate: 2213
+Small: 342
+Scanner Posts: 6
+Alerts: 6
+
+💓 Heartbeat | liveEvents=96812
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2658
+Small: 342
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 900
+Duplicate: 1758
+Small: 342
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2658
+Small: 342
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2658
+Small: 342
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2658
+Small: 342
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2658
+Small: 342
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=97293
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2658
+Small: 342
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2658
+Small: 342
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2658
+Small: 342
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2658
+Small: 342
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2658
+Small: 342
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2658
+Small: 342
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=97817
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2658
+Small: 342
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2658
+Small: 342
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2658
+Small: 342
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2658
+Small: 342
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2658
+Small: 342
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2658
+Small: 342
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=98269
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2658
+Small: 342
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2658
+Small: 342
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2658
+Small: 342
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2658
+Small: 342
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2658
+Small: 342
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2658
+Small: 342
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=98682
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2658
+Small: 342
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2658
+Small: 342
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 465
+Duplicate: 2224
+Small: 311
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2689
+Small: 311
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2689
+Small: 311
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2689
+Small: 311
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=99302
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 437
+Duplicate: 2244
+Small: 319
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 348
+Duplicate: 2354
+Small: 298
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 808
+Duplicate: 1913
+Small: 279
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=99760
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=100243
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=100666
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=101229
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2721
+Small: 279
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 455
+Duplicate: 2256
+Small: 289
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2711
+Small: 289
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2711
+Small: 289
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2711
+Small: 289
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=101651
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 454
+Duplicate: 2274
+Small: 272
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 424
+Duplicate: 2307
+Small: 269
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1298
+Duplicate: 1427
+Small: 275
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2725
+Small: 275
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2725
+Small: 275
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2725
+Small: 275
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=102099
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2725
+Small: 275
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2725
+Small: 275
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2725
+Small: 275
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2725
+Small: 275
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2725
+Small: 275
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2725
+Small: 275
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=102698
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2725
+Small: 275
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2725
+Small: 275
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2725
+Small: 275
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2725
+Small: 275
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2725
+Small: 275
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2725
+Small: 275
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=103313
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2725
+Small: 275
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2725
+Small: 275
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2725
+Small: 275
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2725
+Small: 275
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2725
+Small: 275
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2725
+Small: 275
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=103797
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2725
+Small: 275
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2725
+Small: 275
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2725
+Small: 275
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 443
+Duplicate: 2270
+Small: 287
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2713
+Small: 287
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2713
+Small: 287
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=104532
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 442
+Duplicate: 2259
+Small: 299
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 370
+Duplicate: 2340
+Small: 290
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 534
+Duplicate: 2143
+Small: 323
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2677
+Small: 323
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2677
+Small: 323
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2677
+Small: 323
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=105332
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2677
+Small: 323
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2677
+Small: 323
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2677
+Small: 323
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2677
+Small: 323
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2677
+Small: 323
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2677
+Small: 323
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=105873
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2677
+Small: 323
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2677
+Small: 323
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2677
+Small: 323
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2677
+Small: 323
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2677
+Small: 323
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2677
+Small: 323
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=106188
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2677
+Small: 323
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2677
+Small: 323
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2677
+Small: 323
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2677
+Small: 323
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2677
+Small: 323
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2677
+Small: 323
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=106559
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2677
+Small: 323
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2677
+Small: 323
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2677
+Small: 323
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 411
+Duplicate: 2234
+Small: 355
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2645
+Small: 355
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2645
+Small: 355
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=107026
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 449
+Duplicate: 2203
+Small: 348
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 378
+Duplicate: 2265
+Small: 357
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 741
+Duplicate: 1896
+Small: 363
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=107569
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=108185
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=108779
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=109398
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2637
+Small: 363
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 442
+Duplicate: 2226
+Small: 332
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2668
+Small: 332
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2668
+Small: 332
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=110057
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 441
+Duplicate: 2219
+Small: 340
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2660
+Small: 340
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1480
+Duplicate: 1167
+Small: 353
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2647
+Small: 353
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2647
+Small: 353
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2647
+Small: 353
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=110507
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2647
+Small: 353
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2647
+Small: 353
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2647
+Small: 353
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2647
+Small: 353
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2647
+Small: 353
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2647
+Small: 353
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=110905
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2647
+Small: 353
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2647
+Small: 353
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2647
+Small: 353
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2647
+Small: 353
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2647
+Small: 353
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2647
+Small: 353
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=111265
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2647
+Small: 353
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2647
+Small: 353
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2647
+Small: 353
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2647
+Small: 353
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2647
+Small: 353
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2647
+Small: 353
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=111757
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2647
+Small: 353
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2647
+Small: 353
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2647
+Small: 353
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 447
+Duplicate: 2205
+Small: 348
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2652
+Small: 348
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2652
+Small: 348
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=112254
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 446
+Duplicate: 2211
+Small: 343
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2657
+Small: 343
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1494
+Duplicate: 1193
+Small: 313
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2687
+Small: 313
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2687
+Small: 313
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2687
+Small: 313
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=112727
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2687
+Small: 313
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2687
+Small: 313
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2687
+Small: 313
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2687
+Small: 313
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2687
+Small: 313
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2687
+Small: 313
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=113143
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2687
+Small: 313
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2687
+Small: 313
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2687
+Small: 313
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2687
+Small: 313
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2687
+Small: 313
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2687
+Small: 313
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=113793
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2687
+Small: 313
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2687
+Small: 313
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2687
+Small: 313
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2687
+Small: 313
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2687
+Small: 313
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2687
+Small: 313
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=114428
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2687
+Small: 313
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2687
+Small: 313
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2687
+Small: 313
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 408
+Duplicate: 2240
+Small: 352
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2648
+Small: 352
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2648
+Small: 352
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=114936
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 403
+Duplicate: 2202
+Small: 395
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2605
+Small: 395
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1621
+Duplicate: 877
+Small: 502
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2498
+Small: 502
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2498
+Small: 502
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2498
+Small: 502
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=115440
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2498
+Small: 502
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2498
+Small: 502
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2498
+Small: 502
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2498
+Small: 502
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2498
+Small: 502
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2498
+Small: 502
+Scanner Posts: 0
+Alerts: 0
+
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=116033
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2514
+Duplicate: 162
+Small: 324
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=116033
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+scanner post failed: scanner post timed out
+⏳ Scanner already running. Skipping.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=116105
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2312
+Duplicate: 377
+Small: 311
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=116206
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2720
+Duplicate: 0
+Small: 280
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1174
+Duplicate: 1540
+Small: 286
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2714
+Small: 286
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2714
+Small: 286
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2714
+Small: 286
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=116885
+scanner post failed: scanner post timed out
+⏳ Scanner already running. Skipping.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=116885
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2301
+Duplicate: 419
+Small: 280
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=116962
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1636
+Duplicate: 1016
+Small: 348
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2652
+Small: 348
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2652
+Small: 348
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2652
+Small: 348
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2652
+Small: 348
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=117542
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1792
+Duplicate: 870
+Small: 338
+Scanner Posts: 6
+Alerts: 6
+
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2662
+Small: 338
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2662
+Small: 338
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2662
+Small: 338
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2662
+Small: 338
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=117772
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1820
+Duplicate: 892
+Small: 288
+Scanner Posts: 6
+Alerts: 6
+
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2712
+Small: 288
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2712
+Small: 288
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2712
+Small: 288
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2712
+Small: 288
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=118211
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1774
+Duplicate: 832
+Small: 394
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2606
+Small: 394
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2606
+Small: 394
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2606
+Small: 394
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2606
+Small: 394
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=121608
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2606
+Small: 394
+Scanner Posts: 0
+Alerts: 0
+
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2606
+Small: 394
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2606
+Small: 394
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2606
+Small: 394
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 378
+Duplicate: 2159
+Small: 463
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=121943
+⚠️ WebSocket closed. Reconnecting...
+⚠️ RWTCH WebSocket closed. Reconnecting.
+scanner post failed: scanner post timed out
+⏳ Scanner already running. Skipping.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=121943
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1870
+Duplicate: 824
+Small: 306
+Scanner Posts: 6
+Alerts: 6
+
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2229
+Duplicate: 473
+Small: 298
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2702
+Small: 298
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2702
+Small: 298
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+scanner post failed: scanner post timed out
+⏳ Scanner already running. Skipping.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=125349
+⚠️ WebSocket closed. Reconnecting...
+⚠️ RWTCH WebSocket closed. Reconnecting.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1897
+Duplicate: 828
+Small: 275
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=125349
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1962
+Duplicate: 669
+Small: 369
+Scanner Posts: 6
+Alerts: 6
+
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2631
+Small: 369
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2631
+Small: 369
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2631
+Small: 369
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2631
+Small: 369
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=126231
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1656
+Duplicate: 953
+Small: 391
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2609
+Small: 391
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2609
+Small: 391
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2609
+Small: 391
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2609
+Small: 391
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=126717
+scanner post failed: scanner post timed out
+⏳ Scanner already running. Skipping.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=126717
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1983
+Duplicate: 707
+Small: 310
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=126785
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1804
+Duplicate: 832
+Small: 364
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 452
+Duplicate: 2212
+Small: 336
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2664
+Small: 336
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2664
+Small: 336
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2664
+Small: 336
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+💓 Heartbeat | liveEvents=127173
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1330
+Duplicate: 1356
+Small: 314
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2686
+Small: 314
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2686
+Small: 314
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2686
+Small: 314
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2686
+Small: 314
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=128082
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1620
+Duplicate: 974
+Small: 406
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2594
+Small: 406
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2594
+Small: 406
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2594
+Small: 406
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2594
+Small: 406
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=128830
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1813
+Duplicate: 902
+Small: 285
+Scanner Posts: 6
+Alerts: 6
+
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2715
+Small: 285
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2715
+Small: 285
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2715
+Small: 285
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2715
+Small: 285
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=129772
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1979
+Duplicate: 764
+Small: 257
+Scanner Posts: 6
+Alerts: 6
+
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2743
+Small: 257
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2743
+Small: 257
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2743
+Small: 257
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2743
+Small: 257
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2743
+Small: 257
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=130572
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2743
+Small: 257
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2743
+Small: 257
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2743
+Small: 257
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2743
+Small: 257
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=130855
+scanner post failed: scanner post timed out
+⏳ Scanner already running. Skipping.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=130855
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1600
+Duplicate: 1023
+Small: 377
+Scanner Posts: 6
+Alerts: 6
+
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1659
+Duplicate: 1058
+Small: 283
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2717
+Small: 283
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2717
+Small: 283
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2717
+Small: 283
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=131183
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1962
+Duplicate: 665
+Small: 373
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2627
+Small: 373
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=131240
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 446
+Duplicate: 2172
+Small: 382
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1244
+Duplicate: 1401
+Small: 355
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2645
+Small: 355
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2645
+Small: 355
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2645
+Small: 355
+Scanner Posts: 0
+Alerts: 0
+
+⚠️ WebSocket closed. Reconnecting...
+⚠️ RWTCH WebSocket closed. Reconnecting.
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=131427
+scanner post failed: scanner post timed out
+⏳ Scanner already running. Skipping.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=131427
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2156
+Duplicate: 513
+Small: 331
+Scanner Posts: 6
+Alerts: 6
+
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 592
+Duplicate: 2095
+Small: 313
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2687
+Small: 313
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2687
+Small: 313
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+scanner post failed: scanner post timed out
+⏳ Scanner already running. Skipping.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=131800
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 443
+Duplicate: 2230
+Small: 327
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=131800
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+scanner post failed: scanner post timed out
+⏳ Scanner already running. Skipping.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=131832
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 1559
+Duplicate: 991
+Small: 450
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=131857
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2612
+Duplicate: 0
+Small: 388
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 443
+Duplicate: 2175
+Small: 382
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2618
+Small: 382
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2618
+Small: 382
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2618
+Small: 382
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=132664
+scanner post failed: scanner post timed out
+⏳ Scanner already running. Skipping.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=132664
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2148
+Duplicate: 443
+Small: 409
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=132709
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2627
+Duplicate: 0
+Small: 373
+Scanner Posts: 6
+Alerts: 6
+
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2627
+Small: 373
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2627
+Small: 373
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2627
+Small: 373
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2627
+Small: 373
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=133002
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 815
+Duplicate: 1802
+Small: 383
+Scanner Posts: 6
+Alerts: 6
+
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2617
+Small: 383
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2617
+Small: 383
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2617
+Small: 383
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2617
+Small: 383
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+⚠️ WebSocket heartbeat stale. Reconnecting.
+⚠️ WebSocket heartbeat stale. Reconnecting.
+💓 Heartbeat | liveEvents=133294
+✅ RWTCH WebSocket connected.
+✅ RWTCH WebSocket connected.
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 2496
+Duplicate: 92
+Small: 412
+Scanner Posts: 6
+Alerts: 6
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2588
+Small: 412
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2588
+Small: 412
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2588
+Small: 412
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2588
+Small: 412
+Scanner Posts: 0
+Alerts: 0
+
+RWTCH scanner running
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2588
+Small: 412
+Scanner Posts: 0
+Alerts: 0
+
+💓 Heartbeat | liveEvents=133979
+RWTCH scanner running
+🔎 Discovered 200 active market asset IDs.
+✅ WebSocket subscribed to 200 assets.
+
+RWTCH SCAN
+Fetched: 3000
+Saved: 0
+Duplicate: 2588
+Small: 412
+Scanner Posts: 0
+Alerts: 0
+
