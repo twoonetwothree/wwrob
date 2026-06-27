@@ -16,6 +16,13 @@ const MAX_SCANNER_POSTS = 6;
 const MAX_ALERTS = 6;
 const DISCORD_SEND_TIMEOUT_MS = 7000;
 
+const COORDINATED_MIN_WALLETS = 3;
+const COORDINATED_MIN_VOLUME = 500;
+const COORDINATED_MAX_POSTS = 3;
+
+let scanCount = 0;
+const marketActivity = new Map();
+
 async function withTimeout(promise, label) {
   try {
     await Promise.race([
@@ -32,10 +39,114 @@ async function withTimeout(promise, label) {
   }
 }
 
+function trackMarketActivity(trade, tradeValue) {
+  const key = trade.slug || trade.market || "unknown";
+
+  if (!marketActivity.has(key)) {
+    marketActivity.set(key, {
+      market: trade.market || "Unknown Market",
+      slug: trade.slug || "",
+      volume: 0,
+      trades: 0,
+      wallets: new Set(),
+    });
+  }
+
+  const item = marketActivity.get(key);
+
+  item.volume += tradeValue;
+  item.trades += 1;
+
+  if (trade.wallet) {
+    item.wallets.add(trade.wallet);
+  }
+}
+
+function trackCoordinatedActivity(map, trade, tradeValue) {
+  const key = `${trade.slug || trade.market || "unknown"}:${trade.outcome || "unknown"}:${trade.side || "unknown"}`;
+
+  if (!map.has(key)) {
+    map.set(key, {
+      market: trade.market || "Unknown Market",
+      slug: trade.slug || "",
+      outcome: trade.outcome || "UNKNOWN",
+      side: trade.side || "UNKNOWN",
+      volume: 0,
+      trades: 0,
+      wallets: new Set(),
+    });
+  }
+
+  const item = map.get(key);
+
+  item.volume += tradeValue;
+  item.trades += 1;
+
+  if (trade.wallet) {
+    item.wallets.add(trade.wallet);
+  }
+}
+
+async function postActiveMarkets(channel) {
+  const ranked = [...marketActivity.values()]
+    .sort((a, b) => b.volume - a.volume)
+    .slice(0, 5);
+
+  if (ranked.length === 0) return;
+
+  const lines = ranked.map((item, index) => {
+    return [
+      `${index + 1}. ${item.market}`,
+      `Volume: $${item.volume.toLocaleString(undefined, { maximumFractionDigits: 2 })}`,
+      `Trades: ${item.trades}`,
+      `Unique wallets: ${item.wallets.size}`,
+    ].join("\n");
+  });
+
+  const message = `Top Active Markets\n\n${lines.join("\n\n")}`;
+
+  await withTimeout(channel.send(message), "active markets post");
+
+  marketActivity.clear();
+}
+
+async function postCoordinatedTrades(channel, coordinatedMap) {
+  const ranked = [...coordinatedMap.values()]
+    .filter((item) => {
+      return (
+        item.wallets.size >= COORDINATED_MIN_WALLETS &&
+        item.volume >= COORDINATED_MIN_VOLUME
+      );
+    })
+    .sort((a, b) => b.volume - a.volume)
+    .slice(0, COORDINATED_MAX_POSTS);
+
+  for (const item of ranked) {
+    const message = [
+      "Coordinated Trade Signal",
+      "",
+      `Market: ${item.market}`,
+      `Side: ${item.side}`,
+      `Outcome: ${item.outcome}`,
+      `Combined volume: $${item.volume.toLocaleString(undefined, { maximumFractionDigits: 2 })}`,
+      `Trades: ${item.trades}`,
+      `Unique wallets: ${item.wallets.size}`,
+      item.slug ? `Link: https://polymarket.com/event/${item.slug}` : "",
+    ]
+      .filter(Boolean)
+      .join("\n");
+
+    await withTimeout(channel.send(message), "coordinated trade post");
+  }
+}
+
 async function runScanner(channels) {
   console.log("RWTCH scanner running");
 
+  scanCount++;
+
   const trades = await fetchRecentTrades(3000);
+  const coordinatedMap = new Map();
 
   let saved = 0;
   let duplicate = 0;
@@ -52,6 +163,9 @@ async function runScanner(channels) {
       small++;
       continue;
     }
+
+    trackMarketActivity(trade, tradeValue);
+    trackCoordinatedActivity(coordinatedMap, trade, tradeValue);
 
     const wallet = saveTrade(trade);
 
@@ -130,6 +244,14 @@ async function runScanner(channels) {
 
       alerts++;
     }
+  }
+
+  if (channels.coordinated) {
+    await postCoordinatedTrades(channels.coordinated, coordinatedMap);
+  }
+
+  if (scanCount % 6 === 0 && channels.scanner) {
+    await postActiveMarkets(channels.scanner);
   }
 
   updateStats({
