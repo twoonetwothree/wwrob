@@ -29,12 +29,14 @@ async function loadChannels() {
     coordinated: await client.channels.fetch(process.env.COORDINATED_TRADES_CHANNEL_ID),
     movers: await client.channels.fetch(process.env.MARKET_MOVERS_CHANNEL_ID),
     profiles: await client.channels.fetch(process.env.WALLET_PROFILES_CHANNEL_ID),
+    bestTrades: await client.channels.fetch(process.env.BEST_TRADES_CHANNEL_ID),
+    ufcTrades: await client.channels.fetch(process.env.UFC_TRADES_CHANNEL_ID),
   };
 }
 
 async function safeRunScanner() {
   if (scannerRunning) {
-    console.log("⏳ Scanner already running. Skipping.");
+    console.log("Scanner already running. Skipping.");
     return;
   }
 
@@ -43,8 +45,8 @@ async function safeRunScanner() {
   try {
     await runScanner(channels);
   } catch (error) {
-    console.error("🔥 Scanner failed:", error.message);
-    await safeSend(channels.status, `🔥 Scanner failed: ${error.message}`, "scanner error");
+    console.error("Scanner failed:", error.message);
+    await safeSend(channels.status, `Scanner failed: ${error.message}`, "scanner error");
   } finally {
     scannerRunning = false;
   }
@@ -65,26 +67,26 @@ async function postLatestMover() {
 
   const embed = new EmbedBuilder()
     .setColor(0x06b6d4)
-    .setTitle("📈 RWTCH Market Mover")
+    .setTitle("RWTCH Market Mover")
     .addFields(
       { name: "Event", value: `${msg.eventType}`, inline: true },
       { name: "Price", value: `${msg.price}`, inline: true },
       { name: "Asset", value: `\`${String(msg.assetId).slice(0, 28)}...\`` }
     )
-    .setFooter({ text: "RWTCH • WebSocket Market Engine" })
+    .setFooter({ text: "RWTCH WebSocket Market Engine" })
     .setTimestamp();
 
   await safeSend(channels.movers, { embeds: [embed] }, "market mover");
 }
 
 client.once("ready", async () => {
-  console.log(`✅ Bot is online as ${client.user.tag}`);
+  console.log(`Bot is online as ${client.user.tag}`);
 
   await loadChannels();
 
   await safeSend(
     channels.status,
-    "✅ RWTCH online. Live trade scanner + WebSocket market engine active.",
+    "RWTCH online. Live trade scanner + WebSocket market engine active.",
     "startup"
   );
 
@@ -104,11 +106,11 @@ client.once("ready", async () => {
   setInterval(postLatestMover, 15000);
 
   setInterval(async () => {
-    console.log(`💓 Heartbeat | liveEvents=${liveEvents}`);
+    console.log(`Heartbeat | liveEvents=${liveEvents}`);
 
     await safeSend(
       channels.status,
-      `💓 RWTCH heartbeat\nLive WebSocket events: ${liveEvents}`,
+      `RWTCH heartbeat\nLive WebSocket events: ${liveEvents}`,
       "heartbeat"
     );
   }, 60 * 1000);

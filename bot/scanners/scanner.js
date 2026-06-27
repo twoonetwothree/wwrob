@@ -1,3 +1,4 @@
+const { EmbedBuilder } = require("discord.js");
 const { fetchRecentTrades } = require("../trackers/trades");
 const { saveTrade } = require("../wallets/walletTracker");
 const { scoreWallet } = require("../wallets/walletScoring");
@@ -5,15 +6,18 @@ const { getWalletGrade } = require("../wallets/walletGrade");
 const { sendWalletAlert } = require("../alerts/walletAlert");
 const { sendSimpleTradeAlert } = require("../alerts/simpleTradeAlert");
 const { updateStats } = require("../logs/statsLogger");
+const { analyzeBestTrades, buildTradeStudyEmbed } = require("../analysis/tradeAnalyzer");
 
 const MIN_SAVE_VALUE = 1;
-const SCANNER_POST_VALUE = 1;
-const PRE_ALERT_VALUE = 100;
+
 const FRESH_VALUE = 250;
-const WHALE_VALUE = 1000;
+const SMART_VALUE = 100;
+const TOP_VALUE = 250;
+const WHALE_VALUE = 10000;
+const PRE_ALERT_VALUE = 100;
 
 const MAX_SCANNER_POSTS = 6;
-const MAX_ALERTS = 6;
+const MAX_ALERTS = 10;
 const DISCORD_SEND_TIMEOUT_MS = 7000;
 
 const COORDINATED_MIN_WALLETS = 3;
@@ -53,13 +57,10 @@ function trackMarketActivity(trade, tradeValue) {
   }
 
   const item = marketActivity.get(key);
-
   item.volume += tradeValue;
   item.trades += 1;
 
-  if (trade.wallet) {
-    item.wallets.add(trade.wallet);
-  }
+  if (trade.wallet) item.wallets.add(trade.wallet);
 }
 
 function trackCoordinatedActivity(map, trade, tradeValue) {
@@ -78,13 +79,10 @@ function trackCoordinatedActivity(map, trade, tradeValue) {
   }
 
   const item = map.get(key);
-
   item.volume += tradeValue;
   item.trades += 1;
 
-  if (trade.wallet) {
-    item.wallets.add(trade.wallet);
-  }
+  if (trade.wallet) item.wallets.add(trade.wallet);
 }
 
 async function postActiveMarkets(channel) {
@@ -103,9 +101,10 @@ async function postActiveMarkets(channel) {
     ].join("\n");
   });
 
-  const message = `Top Active Markets\n\n${lines.join("\n\n")}`;
-
-  await withTimeout(channel.send(message), "active markets post");
+  await withTimeout(
+    channel.send(`Top Active Markets\n\n${lines.join("\n\n")}`),
+    "active markets post"
+  );
 
   marketActivity.clear();
 }
@@ -113,30 +112,64 @@ async function postActiveMarkets(channel) {
 async function postCoordinatedTrades(channel, coordinatedMap) {
   const ranked = [...coordinatedMap.values()]
     .filter((item) => {
-      return (
-        item.wallets.size >= COORDINATED_MIN_WALLETS &&
-        item.volume >= COORDINATED_MIN_VOLUME
-      );
+      return item.wallets.size >= COORDINATED_MIN_WALLETS && item.volume >= COORDINATED_MIN_VOLUME;
     })
     .sort((a, b) => b.volume - a.volume)
     .slice(0, COORDINATED_MAX_POSTS);
 
   for (const item of ranked) {
-    const message = [
-      "Coordinated Trade Signal",
-      "",
-      `Market: ${item.market}`,
-      `Side: ${item.side}`,
-      `Outcome: ${item.outcome}`,
-      `Combined volume: $${item.volume.toLocaleString(undefined, { maximumFractionDigits: 2 })}`,
-      `Trades: ${item.trades}`,
-      `Unique wallets: ${item.wallets.size}`,
-      item.slug ? `Link: https://polymarket.com/event/${item.slug}` : "",
-    ]
-      .filter(Boolean)
-      .join("\n");
+    const embed = new EmbedBuilder()
+      .setColor(0xef4444)
+      .setTitle("Coordinated Trade Signal")
+      .addFields(
+        { name: "Market", value: item.market.slice(0, 1024) },
+        { name: "Side", value: item.side, inline: true },
+        { name: "Outcome", value: item.outcome, inline: true },
+        {
+          name: "Combined Volume",
+          value: `$${item.volume.toLocaleString(undefined, { maximumFractionDigits: 2 })}`,
+          inline: true,
+        },
+        { name: "Trades", value: `${item.trades}`, inline: true },
+        { name: "Unique Wallets", value: `${item.wallets.size}`, inline: true }
+      )
+      .setFooter({ text: "RWTCH Coordinated Trade Engine" })
+      .setTimestamp();
 
-    await withTimeout(channel.send(message), "coordinated trade post");
+    if (item.slug) {
+      embed.setURL(`https://polymarket.com/event/${item.slug}`);
+    }
+
+    await withTimeout(
+      channel.send({ embeds: [embed] }),
+      "coordinated trade post"
+    );
+  }
+}
+
+async function postBestTrades(channel, trades) {
+  if (!channel) return;
+
+  const studies = analyzeBestTrades(trades, { onlyUfc: false });
+
+  for (const study of studies) {
+    await withTimeout(
+      channel.send({ embeds: [buildTradeStudyEmbed(study)] }),
+      "best trade study post"
+    );
+  }
+}
+
+async function postUfcTrades(channel, trades) {
+  if (!channel) return;
+
+  const studies = analyzeBestTrades(trades, { onlyUfc: true });
+
+  for (const study of studies) {
+    await withTimeout(
+      channel.send({ embeds: [buildTradeStudyEmbed(study)] }),
+      "ufc trade study post"
+    );
   }
 }
 
@@ -179,7 +212,7 @@ async function runScanner(channels) {
     const score = scoreWallet(wallet);
     const grade = getWalletGrade(wallet, score);
 
-    if (scannerPosts < MAX_SCANNER_POSTS && tradeValue >= SCANNER_POST_VALUE) {
+    if (scannerPosts < MAX_SCANNER_POSTS && tradeValue >= 1) {
       await withTimeout(
         sendSimpleTradeAlert(channels.scanner, wallet, trade, score, grade),
         "scanner post"
@@ -190,23 +223,27 @@ async function runScanner(channels) {
 
     if (alerts >= MAX_ALERTS) continue;
 
-    const isFresh = wallet.trade_count <= 3 && tradeValue >= FRESH_VALUE;
-    const isWhale = tradeValue >= WHALE_VALUE || grade.channelType === "whale";
-    const isTop = grade.channelType === "top";
-    const isSmart = grade.channelType === "smart";
-    const isPreAlert = tradeValue >= PRE_ALERT_VALUE && score >= 25;
+    const isWhaleTrade = tradeValue >= WHALE_VALUE;
+    const isFreshWallet = wallet.trade_count <= 3 && tradeValue >= FRESH_VALUE;
+    const isTopTrader =
+      tradeValue >= TOP_VALUE &&
+      (score >= 85 || grade.grade === "A" || grade.grade === "S");
 
-    if (isFresh && channels.fresh) {
-      await withTimeout(
-        sendWalletAlert(channels.fresh, wallet, trade, score, grade),
-        "fresh alert"
-      );
+    const isSmartWallet =
+      tradeValue >= SMART_VALUE &&
+      wallet.trade_count >= 10 &&
+      score >= 65 &&
+      !isTopTrader;
 
-      alerts++;
-      continue;
-    }
+    const isPreAlert =
+      tradeValue >= PRE_ALERT_VALUE &&
+      score >= 25 &&
+      !isWhaleTrade &&
+      !isFreshWallet &&
+      !isTopTrader &&
+      !isSmartWallet;
 
-    if (isWhale && channels.whale) {
+    if (isWhaleTrade && channels.whale) {
       await withTimeout(
         sendWalletAlert(channels.whale, wallet, trade, score, grade),
         "whale alert"
@@ -216,7 +253,17 @@ async function runScanner(channels) {
       continue;
     }
 
-    if (isTop && channels.top) {
+    if (isFreshWallet && channels.fresh) {
+      await withTimeout(
+        sendWalletAlert(channels.fresh, wallet, trade, score, grade),
+        "fresh alert"
+      );
+
+      alerts++;
+      continue;
+    }
+
+    if (isTopTrader && channels.top) {
       await withTimeout(
         sendWalletAlert(channels.top, wallet, trade, score, grade),
         "top trader alert"
@@ -226,7 +273,7 @@ async function runScanner(channels) {
       continue;
     }
 
-    if (isSmart && channels.smart) {
+    if (isSmartWallet && channels.smart) {
       await withTimeout(
         sendWalletAlert(channels.smart, wallet, trade, score, grade),
         "smart wallet alert"
@@ -252,6 +299,14 @@ async function runScanner(channels) {
 
   if (scanCount % 6 === 0 && channels.scanner) {
     await postActiveMarkets(channels.scanner);
+  }
+
+  if (scanCount % 12 === 0 && channels.bestTrades) {
+    await postBestTrades(channels.bestTrades, trades);
+  }
+
+  if (scanCount % 12 === 0 && channels.ufcTrades) {
+    await postUfcTrades(channels.ufcTrades, trades);
   }
 
   updateStats({
